@@ -6,17 +6,17 @@ The Spotify Recommender Project is a Python-based recommendation system that pro
 
 ### Built With
 
-- Python
-- [Spotify API](https://developer.spotify.com/documentation/web-api/)
-- [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/)
+1. Python
+2. [Spotify API](https://developer.spotify.com/documentation/web-api/)
+3. [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/)
 
 ## Overview
 
 The Spotify Recommender Project:
 
-- Providing song recommendations based on their input song choice.
-- Incorporating user preferences and music features for more accurate recommendations.
-- Combining collaborative filtering and content-based filtering to offer diverse and personalized song suggestions.
+1. Providing song recommendations based on their input song choice.
+2. Incorporating user preferences and music features for more accurate recommendations.
+3. Combining collaborative filtering and content-based filtering to offer diverse and personalized song suggestions.
 
 ## Getting Started
 
